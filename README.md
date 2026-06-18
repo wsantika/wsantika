@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an active student in the information technology study program at Undiknas University
+I am an active student in the information technology study program at Undiknas University<br>
 My Portfolio: https://stone-code-chi.vercel.app
 
 
